@@ -29,9 +29,10 @@
 
 Сделайте скрипт исполняемым и запустите его:
 
-bash
+```bash
 chmod +x postfix_management.sh
 sudo ./postfix_management.sh
+```
 
 ## Лицензия
 
